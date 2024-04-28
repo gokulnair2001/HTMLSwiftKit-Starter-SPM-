@@ -1,0 +1,7 @@
+User-agent: Applebot
+Disallow: *
+
+User-agent: *
+Allow: /
+
+Sitemap: www.gokul.com/sitemap.xml

@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "htmlswiftkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/gokulnair2001/HTMLSwiftKit",
+      "state" : {
+        "branch" : "main",
+        "revision" : "5dd5262eeea73c598c4f8d90a7ba77aed21d2794"
+      }
+    }
+  ],
+  "version" : 2
+}
